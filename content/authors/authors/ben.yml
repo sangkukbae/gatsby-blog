@@ -1,0 +1,7 @@
+name: Ben
+bio: |
+  안녕하세요. 개발을 좋아하고 여러가지 분야에 관심이 많습니다. 블로그는 최소 일주일에 하나씩은 포스트를 올릴 예정입니다.
+avatar: ./avatars/profile-image-03.png
+social:
+  - url: https://github.com/sangkukbae
+featured: true
