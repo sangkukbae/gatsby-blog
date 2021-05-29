@@ -7,7 +7,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `This is my blog about development`,
     hero: {
-      heading: `() => "hello world"`,
+      heading: `If I have seen further it is by standing on the shoulders of Giants.`,
       maxWidth: 652,
     },
     social: [
